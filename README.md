@@ -267,5 +267,4 @@ The tool returns two parts:
 
 ## Notes
 This is a backend-first scaffold. The retrieval and formatting logic is intentionally simple and will be upgraded later (e.g., vector search, LLM synthesis).
-#   E x a m R C . a i  
- 
+#
